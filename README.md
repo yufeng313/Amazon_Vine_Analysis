@@ -39,6 +39,5 @@ Here are the results below: <br/>
   42.17% of Vine reviews were 5 stars, and 46.87% of non-Vine reviews were 5 stars.
 
 ## Summary
-### state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. 
-The results show 
-### provide one additional analysis that you could do with the dataset to support your statement.
+The results show that 42.17% of Vine reviews were 5 stars, while 46.87% of non-Vine reviews were 5 stars, with almost the same percentage, we can say that there isn’t too much bias for reviews in the Vine program of kitchen category. <br/>
+In order to make a further detailed analysis to support the statement, I think we could perform the similar analysis on 1-4 star_rating reviews to see if there is any bias in the Vine program.
