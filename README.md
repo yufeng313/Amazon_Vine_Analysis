@@ -3,7 +3,7 @@
 In this project, we are going to analyze Amazon reviews written by members of the paid Amazon Vine program and determine if there is any bias toward favorable reviews from Vine members.
 
 ## Resources
-Data Source: Amazon Review datasets<br/>
+Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
 Software: Google Colab Notebook, PostgreSQL 11.16, pgAdmin4 6.11
 
 ## Results
