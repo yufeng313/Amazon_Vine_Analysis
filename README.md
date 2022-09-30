@@ -3,12 +3,12 @@
 In this project, we are going to analyze Amazon reviews written by members of the paid Amazon Vine program and determine if there is any bias toward favorable reviews from Vine members.
 
 ## Resources
-Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)
+Data Source: [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt)<br/>
 Software: Google Colab Notebook, PostgreSQL 11.16, pgAdmin4 6.11
 
 ## Results
 ### Perform ETL on Amazon product reviews
-In this project, I’ll pick the kitchen dataset from Amazon Review datasets to do the analysis with following steps: <br/>
+In this project, I’ll pick the kitchen dataset from [Amazon Review datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) to do the analysis with following steps: <br/>
 1. Create an AWS RDS database with tables in pgAdmin<br/>
 2. Use PySpark to perform the ETL process to extract the dataset, transform the DataFrame into four separate DataFrames that match the table schema in pgAdmin<br/>
 3. Upload the transformed data into pgAdmin<br/>
